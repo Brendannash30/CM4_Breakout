@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator=B1 NewDesignator=Reg
+Change Component Designator: OldDesignator=LED1 NewDesignator=5V_In
+Change Component Designator: OldDesignator=R7 NewDesignator=shunt
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=Net5V_In_2
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component R1 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

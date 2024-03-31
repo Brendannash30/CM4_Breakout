@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=enviornment_IMU Member=R1
+Change Component Designator: OldDesignator=LED2 NewDesignator=3.3V_BNO
+Change Component Designator: OldDesignator=LED3 NewDesignator=3.3V_BME
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=Net3.3V_BNO_2
+Change Net Name : Old Net Name=NetLED3_2 New Net Name=Net3.3V_BME_2
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component  282837-2
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

@@ -1,0 +1,59 @@
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator= NewDesignator=?
+Change Component Designator: OldDesignator= NewDesignator=?
+Change Component Description : Designator=ETH_MAG Old Description=1X1 New Description=1X1 | GIGABIT | Tab Up| Automotive Temperature | Low Profile | With LED
+Added Component: Designator=?(RESC2013X50X35ML15T15)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=Boot(LED_0603)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C72041"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "19-217/BHC-ZL1M2RY/3T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Blue"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=?-2
+Added Pin To Net: NetName=Net1-100_78 Pin=1-100-78
+Added Pin To Net: NetName=Net1-100_78 Pin=1-100-84
+Added Net: Name=Net1-100_78
+Added Pin To Net: NetName=Net1-100_100 Pin=1-100-100
+Added Pin To Net: NetName=Net1-100_100 Pin=Boot-1
+Added Net: Name=Net1-100_100
+Added Pin To Net: NetName=Net?_1 Pin=?-1
+Added Pin To Net: NetName=Net?_1 Pin=Boot-2
+Added Net: Name=Net?_1
+Added Member To Class: ClassName=camera_hdmi Member=Component ? 885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component ? 885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component ? Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=LV_breakout_main Member=Component Boot 0603Bl
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=current_measure Member=Component  0603Bl
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  282837-2
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component  10uF
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

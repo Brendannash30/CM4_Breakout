@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\LV_breakout_1 - Copy\LV_breakout_1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=lv_breakout_1.txt|DrillLayers=gtl,g1,g2,gbl
+LayersSetName=Top_Bot_Rect_Holes|DrillFile=lv_breakout_1-rectholes.txt|DrillLayers=gtl,g1,g2,gbl

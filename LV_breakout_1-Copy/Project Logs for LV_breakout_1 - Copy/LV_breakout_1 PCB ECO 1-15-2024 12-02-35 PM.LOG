@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=5 NewDesignator=C_Mag
+Change Component Designator: OldDesignator=shunt NewDesignator=R7
+Change Net Name : Old Net Name=Net5_1 New Net Name=NetC_Mag_1
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

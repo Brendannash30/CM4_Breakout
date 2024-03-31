@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=J NewDesignator=ETH_MAG
+Change Net Name : Old Net Name=NetJ_13 New Net Name=NetETH_MAG_13
+Change Net Name : Old Net Name=NetJ_17 New Net Name=NetETH_MAG_17
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071

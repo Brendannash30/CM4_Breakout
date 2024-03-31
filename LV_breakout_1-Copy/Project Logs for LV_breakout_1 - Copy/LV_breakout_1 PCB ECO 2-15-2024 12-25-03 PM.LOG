@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=current_measure Member=?
+Removed Member From Class: ClassName=enviornment_IMU Member=?
+Removed Member From Class: ClassName=USB_ETHERNET_SD Member=?
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator=J? NewDesignator=Global_EN
+Change Component Designator: OldDesignator=J? NewDesignator=nRPI_Boot
+Added Member To Class: ClassName=camera_hdmi Member=Component ? 885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component nRPI_Boot 2 PIN
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  0603Bl
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  282837-2
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component  10uF

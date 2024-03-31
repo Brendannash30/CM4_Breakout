@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=camera_hdmi Member=1
+Change Component Designator: OldDesignator=P1 NewDesignator=USB
+Added Member To Class: ClassName=camera_hdmi Member=Component 3 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071

@@ -1,0 +1,249 @@
+Removed Pin From Net: NetName=CM4_3.3V Pin=-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=3.3V_BME-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=3.3V_BNO-1
+Removed Pin From Net: NetName=CM4_3.3V Pin=BME688-2
+Removed Pin From Net: NetName=CM4_3.3V Pin=BME688-6
+Removed Pin From Net: NetName=CM4_3.3V Pin=BME688-8
+Removed Pin From Net: NetName=CM4_3.3V Pin=BNO085-3
+Removed Pin From Net: NetName=CM4_3.3V Pin=BNO085-10
+Removed Pin From Net: NetName=CM4_3.3V Pin=BNO085-28
+Removed Pin From Net: NetName=HDMI_5V Pin=HDMI-18
+Removed Pin From Net: NetName=CM4_3.3V Pin=r-1
+Removed Pin From Net: NetName=VCC_5V Pin=USB-1
+Change Designator: Invalid Designator
+Added Component: Designator=BME_3.3V(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BNO_3.3V(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=BNO_JMP(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=CAM_3.3V(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HDMI_5V(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=HDMI_JMP(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=INA_BP(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=J?(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Component: Designator=SD_3.3V(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_5V(KSTN-5003)
+Add component (AddParameter): Name = "Case/Package"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Colour"; Value = "Orange"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "TestPoint"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://keyelco.com/userAssets/file/M65p56.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Jun-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "TH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "1-Pin Through Hole Device, Dia 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "5003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=USB_JMP(2_PIN_100MIL)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811151421_Ckmtw-Shenzhen-Cankemeng-B-2100S02P-A110_C124375.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "B-2100S02P-A110"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2 PIN"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST_BNO085 Pin=-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=3.3V_BNO-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=BNO085-3
+Added Pin To Net: NetName=NRST_BNO085 Pin=BNO085-10
+Added Pin To Net: NetName=NRST_BNO085 Pin=BNO_3.3V-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=BNO_JMP-1
+Added Pin To Net: NetName=CM4_3.3V Pin=BNO_JMP-2
+Added Pin To Net: NetName=CM4_3.3V Pin=CAM_3.3V-1
+Added Pin To Net: NetName=HDMI_5V Pin=HDMI_JMP-2
+Added Pin To Net: NetName=VCC_5V Pin=INA_BP-1
+Added Pin To Net: NetName=VCC_5V_in Pin=INA_BP-2
+Added Pin To Net: NetName=CM4_3.3V Pin=J?-1
+Added Pin To Net: NetName=NRST_BNO085 Pin=r-1
+Added Pin To Net: NetName=CM4_3.3V Pin=SD_3.3V-1
+Added Pin To Net: NetName=VCC_5V Pin=USB_JMP-2
+Change Net Name : Old Net Name=NRST_BNO085 New Net Name=3.3V_BNO
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=-1
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=-1
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=3.3V_BME-1
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=BME688-2
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=BME688-6
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=BME688-8
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=BME_3.3V-1
+Added Pin To Net: NetName=Net3.3V_BME_1 Pin=J?-2
+Added Net: Name=Net3.3V_BME_1
+Added Pin To Net: NetName=NetHDMI_5V_1 Pin=HDMI-18
+Added Pin To Net: NetName=NetHDMI_5V_1 Pin=HDMI_5V-1
+Added Pin To Net: NetName=NetHDMI_5V_1 Pin=HDMI_JMP-1
+Added Net: Name=NetHDMI_5V_1
+Added Pin To Net: NetName=NetUSB_1 Pin=USB-1
+Added Pin To Net: NetName=NetUSB_1 Pin=USB_5V-1
+Added Pin To Net: NetName=NetUSB_1 Pin=USB_JMP-1
+Added Net: Name=NetUSB_1
+Added Member To Class: ClassName=enviornment_IMU Member=Component BME_3.3V 5003
+Added Member To Class: ClassName=enviornment_IMU Member=Component BNO_3.3V 5003
+Added Member To Class: ClassName=enviornment_IMU Member=Component BNO_JMP 2 PIN
+Added Member To Class: ClassName=camera_hdmi Member=Component CAM_3.3V 5003
+Added Member To Class: ClassName=camera_hdmi Member=Component HDMI_5V 5003
+Added Member To Class: ClassName=camera_hdmi Member=Component HDMI_JMP 2 PIN
+Added Member To Class: ClassName=current_measure Member=Component INA_BP 2 PIN
+Added Member To Class: ClassName=enviornment_IMU Member=Component J? 2 PIN
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component SD_3.3V 5003
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  0603Bl
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component USB_5V 5003
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component USB_JMP 2 PIN
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

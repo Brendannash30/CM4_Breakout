@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [LV_breakout_1 - Copy.PrjPcb]
+   Generated File[LV_breakout_1.TXT]
+   Generated File[LV_breakout_1-RectHoles.TXT]
+   Generated File[LV_breakout_1.LDP]
+   Generated File[LV_breakout_1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 10:55:20 AM On 2/29/2024

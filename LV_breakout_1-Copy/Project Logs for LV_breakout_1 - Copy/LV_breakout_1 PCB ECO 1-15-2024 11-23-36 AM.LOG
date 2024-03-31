@@ -1,0 +1,89 @@
+Removed Pin From Net: NetName=I2C_SDA Pin=-2
+Removed Member From Class: ClassName=current_measure Member=?
+Removed Member From Class: ClassName=USB_ETHERNET_SD Member=?
+Removed Member From Class: ClassName=camera_hdmi Member=R?
+Removed Member From Class: ClassName=current_measure Member=R?
+Removed Member From Class: ClassName=USB_ETHERNET_SD Member=R?
+Change Component Designator: OldDesignator=? NewDesignator=1
+Change Component Designator: OldDesignator=? NewDesignator=2
+Change Component Designator: OldDesignator=? NewDesignator=3
+Change Component Designator: OldDesignator=? NewDesignator=4
+Change Component Designator: OldDesignator=? NewDesignator=5
+Change Component Designator: OldDesignator=B? NewDesignator=B1
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Description : Designator=J Old Description=1X1 New Description=1X1 | GIGABIT | Tab Up| Automotive Temperature | Low Profile | With LED
+Added Component: Designator=P1(OST_USB-A1HSW6)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USB-A1HSW6/On+Shore+Technology+Inc./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "On Shore"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USB-A1HSW6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USB-A1HSW6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USB-A1HSW6/On+Shore+Technology+Inc./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=PI connect(8_PIN_100MIL-Male)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/2003191006_XFCN-PZ254V-11-08P_C492407.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C492407"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MALE"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=-2
+Added Pin To Net: NetName=VCC_5V Pin=P1-1
+Added Pin To Net: NetName=USB_N Pin=P1-2
+Added Pin To Net: NetName=USB_P Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=CM4_3.3V Pin=PI connect-1
+Added Pin To Net: NetName=I2C_SDA Pin=PI connect-2
+Added Pin To Net: NetName=I2C_SCLK Pin=PI connect-3
+Added Pin To Net: NetName=NRST_BNO085 Pin=PI connect-4
+Added Pin To Net: NetName=H_INTN_BNO085 Pin=PI connect-5
+Added Pin To Net: NetName=CLKSEL1_BNO085 Pin=PI connect-6
+Added Pin To Net: NetName=CLKSEL0_BNO085 Pin=PI connect-7
+Added Pin To Net: NetName=GND Pin=PI connect-8
+Change Net Name : Old Net Name=Net?_1 New Net Name=Net5_1
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC1_1
+Added Member To Class: ClassName=LV_breakout_main Member=Component 1-100 DF40C-100DS-0.4V(51)
+Added Member To Class: ClassName=current_measure Member=Component 1 885012206071
+Added Member To Class: ClassName=current_measure Member=Component 2 885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component 4 885012206071
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component 5 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component 101-200 DF40C-100DS-0.4V(51)
+Added Member To Class: ClassName=enviornment_IMU Member=Component BME BME688
+Added Member To Class: ClassName=enviornment_IMU Member=Component BNO BNO085
+Added Member To Class: ClassName=LV_breakout_main Member=Component LED1 0603Bl
+Added Member To Class: ClassName=enviornment_IMU Member=Component LED2 0603Bl
+Added Member To Class: ClassName=enviornment_IMU Member=Component LED3 0603Bl
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component P1 USB-A1HSW6
+Added Member To Class: ClassName=LV_breakout_main Member=Component PI connect MALE 8PIN
+Added Member To Class: ClassName=LV_breakout_main Member=Component R1 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component R2 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component R3 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component R4 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component R5 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component R6 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=current_measure Member=Component R7 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=camera_hdmi Member=Component R8 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=camera_hdmi Member=Component R9 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component R10 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component R11 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component RLED2 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component RLED3 Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component  282837-2

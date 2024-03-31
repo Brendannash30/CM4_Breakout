@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=I2C_CAM_SCLK Pin=1-100-35
+Removed Pin From Net: NetName=I2C_CAM_SDA Pin=1-100-36
+Removed Pin From Net: NetName=I2C_SCLK Pin=1-100-80
+Removed Pin From Net: NetName=I2C_SDA Pin=1-100-82
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator= NewDesignator=?
+Change Component Designator: OldDesignator= NewDesignator=r
+Change Component Description : Designator=ETH_MAG Old Description=1X1 New Description=1X1 | GIGABIT | Tab Up| Automotive Temperature | Low Profile | With LED
+Added Pin To Net: NetName=I2C_SCLK Pin=1-100-56
+Added Pin To Net: NetName=I2C_SDA Pin=1-100-58
+Added Pin To Net: NetName=I2C_CAM_SCLK Pin=1-100-80
+Added Pin To Net: NetName=I2C_CAM_SDA Pin=1-100-82
+Added Member To Class: ClassName=camera_hdmi Member=Component ? 885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component ? 885012206071
+Added Member To Class: ClassName=LV_breakout_main Member=Component ? Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=LV_breakout_main Member=Component Global_EN 2 PIN
+Added Member To Class: ClassName=enviornment_IMU Member=Component r Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=current_measure Member=Component  0603Bl
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component  282837-2
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component  10uF
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

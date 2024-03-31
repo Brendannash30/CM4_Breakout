@@ -1,0 +1,19 @@
+Change Designator: Invalid Designator
+Added Differential Pair: Name=CAM1_C
+Added Differential Pair: Name=CAM1_D0
+Added Differential Pair: Name=CAM1_D1
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  0603Bl
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW

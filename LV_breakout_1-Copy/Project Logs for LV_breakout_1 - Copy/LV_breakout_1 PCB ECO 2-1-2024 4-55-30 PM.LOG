@@ -1,0 +1,39 @@
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator= NewDesignator=H?
+Change Component Designator: OldDesignator= NewDesignator=H?
+Change Component Designator: OldDesignator= NewDesignator=H?
+Change Component Designator: OldDesignator= NewDesignator=H?
+Change Component Designator: OldDesignator= NewDesignator=r
+Change Component Description : Designator=ETH_MAG Old Description=1X1 New Description=1X1 | GIGABIT | Tab Up| Automotive Temperature | Low Profile | With LED
+Added Differential Pair: Name=HDMI1_CK
+Add Differential Pair: Number of nets in differential pair HDMI1_D0N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI1_D0P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI1_D2N is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI1_D2P is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair HDMI_D1P is 1 instead of 2
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=LV_breakout_main Member=Component H? Stencil Hole
+Added Member To Class: ClassName=enviornment_IMU Member=Component r Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=camera_hdmi Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  0603Bl
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  885012206071
+Added Member To Class: ClassName=current_measure Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  Resistor 10k +/-1% 0805 125 mW
+Added Member To Class: ClassName=LV_breakout_main Member=Component  282837-2
+Added Member To Class: ClassName=USB_ETHERNET_SD Member=Component  10uF
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

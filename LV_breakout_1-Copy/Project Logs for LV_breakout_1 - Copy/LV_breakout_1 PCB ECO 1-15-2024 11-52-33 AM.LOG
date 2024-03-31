@@ -1,0 +1,14 @@
+Change Component Designator: OldDesignator=BME NewDesignator=BME688
+Change Component Designator: OldDesignator=BNO NewDesignator=BNO085
+Change Component Designator: OldDesignator=J1 NewDesignator=SD_Card
+Change Component Designator: OldDesignator=U1 NewDesignator=INA_Pow
+Change Net Name : Old Net Name=NetBNO_4 New Net Name=NetBNO085_4
+Change Net Name : Old Net Name=NetBNO_15 New Net Name=NetBNO085_15
+Change Net Name : Old Net Name=NetBNO_16 New Net Name=NetBNO085_16
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component 100nF 885012206071
+Added Member To Class: ClassName=enviornment_IMU Member=Component  885012206071
+Added Room: Name=camera_hdmi
+Added Room: Name=current_measure
+Added Room: Name=enviornment_IMU
+Added Room: Name=LV_breakout_main

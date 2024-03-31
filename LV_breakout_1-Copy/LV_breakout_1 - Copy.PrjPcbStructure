@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=camera_hdmi.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=camera_hdmi.SchDoc|FileName=current_measure.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=camera_hdmi.SchDoc|FileName=enviornment_IMU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=camera_hdmi.SchDoc|FileName=LV_breakout_main.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=camera_hdmi.SchDoc|FileName=USB_ETHERNET_SD.SchDoc|SheetNumber=5
